@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Numbers
-nav_order: 2
 has_children: true
 parent: Datatypes
 permalink: python-tutorial/Numbers-in-python

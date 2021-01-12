@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Datatypes
-nav_order: 1
-has_children: false
 permalink: python-tutorial/introduction-to-data-in-python
 ---
 
