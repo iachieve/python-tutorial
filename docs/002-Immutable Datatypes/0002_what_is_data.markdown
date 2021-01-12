@@ -10,11 +10,11 @@ permalink: python-tutorial/introduction-to-data-in-python
 # What is data?
 # what is data structure?
 ### Examples of Data Structures
-![queue](docs/images/queue.png)    
+![queue](docs/002-Immutable Datatypes/images/queue.png)    
 
-![stack](docs/images/stack.png)   
+![stack](docs/002-Immutable Datatypes/images/stack.png)   
   
-![tree](docs/images/tree.png)    
+![tree](docs/002-Immutable Datatypes/images/tree.png)    
 
 ---
 # Python built-in data types
