@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Datatypes
-nav_order: 20
+nav_order: 1
 has_children: false
 permalink: python-tutorial/introduction-to-data-in-python
 ---
@@ -10,11 +10,11 @@ permalink: python-tutorial/introduction-to-data-in-python
 # What is data?
 # what is data structure?
 ### Examples of Data Structures
-![queue](docs/002-Immutable Datatypes/images/queue.png)    
+![queue](https://raw.githubusercontent.com/iachieve/python-tutorial/gh-pages/docs/002-Immutable%20Datatypes/images/queue.png)    
 
-![stack](docs/002-Immutable Datatypes/images/stack.png)   
+![stack](https://raw.githubusercontent.com/iachieve/python-tutorial/gh-pages/docs/002-Immutable%20Datatypes/images/stack.png)   
   
-![tree](docs/002-Immutable Datatypes/images/tree.png)    
+![tree](https://raw.githubusercontent.com/iachieve/python-tutorial/gh-pages/docs/002-Immutable%20Datatypes/images/tree.png)    
 
 ---
 # Python built-in data types
