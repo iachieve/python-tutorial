@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Introduction
-nav_order: 3
+title: Datatypes
+nav_order: 20
 has_children: false
 permalink: python-tutorial/introduction-to-data-in-python
 ---
@@ -10,11 +10,11 @@ permalink: python-tutorial/introduction-to-data-in-python
 # What is data?
 # what is data structure?
 ### Examples of Data Structures
-![queue](./images/queue.png)    
+![queue](docs/images/queue.png)    
 
-![stack](./images/stack.png)   
+![stack](docs/images/stack.png)   
   
-![tree](./images/tree.png)    
+![tree](docs/images/tree.png)    
 
 ---
 # Python built-in data types
